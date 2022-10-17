@@ -5,3 +5,6 @@ Write a few paragraphs, either in the README or in the notebook, reflecting on w
 What biases do you think might exist in the model based on intuitions or public documentation about how the model was created?
 What were your results?
 What theories do you have about why your results are what they are?
+
+I learned that most comments that contain common bad words such as "fuck", "shit" are likely to considered as "toxic".
+Biases obviously exist. Even though comments don't contain bad words, they still could be toxic and abusive. 
